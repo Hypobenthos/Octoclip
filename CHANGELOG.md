@@ -1,5 +1,43 @@
 # Changelog
 
+## v1.4.0 (2024-07-08)
+
+### General v1.4.0
+
+- Added the "Copy..." option to extract and copy text like SMS codes and links
+- Added "Enable IPv6" and "Copy as Plain Text" options
+- Fixed inaccurate online status in the device list
+- Fixed device list loading failures
+- Fixed synchronization failures with nearby devices
+- Fixed clipboard content loading issues
+- Fixed log time zone mismatches
+- Fixed issues with retransmitting clipboard content
+- Improved clipboard history loading speed
+- Improved connection speed and stability between devices
+
+### iOS v1.4.0
+
+- Added support for "Quick Copy Images"
+- Fixed instability issues with "Quick Copy"
+- Fixed device list retrieval issues after triggering shortcuts
+
+### Android v1.4.0
+
+- Added "Background Clipboard Monitoring" to automatically copy to nearby devices
+- Added support for "Quick Copy Images"
+- Improved retrieval of app information triggering "Quick Copy"
+
+### Windows & macOS v1.4.0
+
+- Added "Quick Copy" transfer progress display
+- Added "Copy Sound" to play sounds on copy and sync success
+- Added "Hotkey" configuration to quickly show and hide windows
+- Added batch selection of clipboard history via "Hotkeys"
+- Fixed issues copying files to clipboard after transfer on Windows
+- Fixed issues opening files after transfer on Windows
+- Fixed incorrect default icons for source applications
+- Fixed display issues for some internationalized content
+
 ## v1.3.0 (2024-06-01)
 
 ### General
