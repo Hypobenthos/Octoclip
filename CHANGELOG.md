@@ -1,5 +1,38 @@
 # Changelog
 
+## v1.5.0 (2024-10-17)
+
+### General v1.5.0
+
+- Added support for "Cloud Sync" feature
+- Added support for maximum transfer configuration in "Quick Copy"
+- Optimized the speed and stability of "Nearby Sync"
+- Fixed the issue of garbled text display in "Clip History" for plain text
+- Fixed the serialization failure issue caused by non-existent files
+
+### iOS v1.5.0
+
+- Fixed the issue where shortcuts might not trigger
+- Improved the display of sync status and progress
+
+### Android v1.5.0
+
+- Fixed the issue where "Background Monitoring" might not close or restart properly
+- Fixed the crash issue of the foreground service in "Background Monitoring"
+- Fixed the device parsing crash issue in "Device Discovery"
+
+### Windows & macOS v1.5.0
+
+- Added "Bonjour" service status check in the device page
+- Updated the underlying dependency Tauri to v2
+- Optimized the operation logic of menu bar/tray icon
+- Optimized the entry point for migrating configuration shortcuts
+- Added embedded bootstrap program for Windows runtime
+- Fixed the issue of inability to auto-start on Windows boot
+- Fixed the issue of copying Bitmap images on Windows
+- Fixed the crash issue when adding ignored applications on macOS
+- Fixed the file path access failure issue on macOS
+
 ## v1.4.0 (2024-07-08)
 
 ### General v1.4.0
