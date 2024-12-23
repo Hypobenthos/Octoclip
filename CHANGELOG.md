@@ -1,5 +1,52 @@
 # Changelog
 
+## v1.6.0 (2024-12-06)
+
+### General v1.6.0
+
+- Added support for "Search"
+- Added support for pairing via "Static IP"
+- Added display of "Paired Device IP"
+- Added clipboard filtering for "Confidential" and "Temporary" content
+- Added support for "Cloud Deletion"
+- Improved stability and speed of "Cloud Sync"
+- Renamed "Devices" to "Nearby Sync"
+
+### iOS v1.6.0
+
+- Added support for "Haptic Feedback" configuration
+- Improved clipboard content reading
+- Fixed incorrect display in "Cloud Sync Details"
+- Fixed background "Quick Copy" failure issues
+
+### Android v1.6.0
+
+- Added support for "Task List Visibility" configuration
+- Added support for "Haptic Feedback" configuration
+- Added support for "Screenshot" source
+- Fixed "OneDrive" background sync failure issues
+- Fixed "BMP" image preview issues
+- Fixed clipboard data clearing issues
+- Fixed incorrect time display in "Sync Details"
+- Fixed various crash issues
+- Fixed progress stopping during "Cloud Sync"
+- Fixed "Copy as Plain Text" configuration not taking effect
+- Fixed "Background Monitoring" startup issues in certain scenarios
+- Improved "TIFF" image preview performance
+- Improved source permission prompts and configuration
+- Improved "Foreground Service" and "Background Monitoring" configuration
+
+### Windows & macOS v1.6.0
+
+- Added support for "Quick Input"
+- Added support for "Double-click/Triple-click" clip actions
+- Improved underlying dependency performance and stability
+- Fixed macOS "Device Discovery Service" permission exception issues
+- Fixed macOS "Devices" page crash issues
+- Improved Windows display and adaptation across different resolutions
+- Fixed Windows content and font blur issues in certain scenarios
+- Fixed blank page issues after logging into "Cloud Sync"
+
 ## v1.5.0 (2024-10-17)
 
 ### General v1.5.0
