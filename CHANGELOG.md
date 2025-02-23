@@ -1,5 +1,39 @@
 # Changelog
 
+## v1.7.0 (2025-02-17)
+
+### General v1.7.0
+
+- Added WebDAV for Cloud Sync
+- Added real-time Cloud Sync across devices
+- Added Clip Collections
+- Added timestamp for Clips
+- Fixed URL plain text copy issue
+- Fixed Cloud Sync full sync failure
+- Optimized Nearby Sync pairing to numbers only
+
+### iOS v1.7.0
+
+- Improved Clip history list loading
+- Fixed manual cleanup issues
+
+### Android v1.7.0
+
+- Improved Clip history list loading
+- Fixed background Clip list operation issue
+- Fixed Traditional Chinese display issue
+
+### Windows & macOS v1.7.0
+
+- New main interface design
+- Added Quick Input "Copy..." operation
+- Added global hotkeys for copy, paste and select all
+- Fixed Cloud Sync authorization refresh issue
+- Fixed Clip items display offset issue
+- Fixed Quick Input window flicker
+- Fixed global hotkey registration
+- Improved Clip homepage experience and pagination
+
 ## v1.6.0 (2024-12-06)
 
 ### General v1.6.0
