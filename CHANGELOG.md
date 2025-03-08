@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.1 (2025-02-26)
+
+### General v1.7.1
+
+- Fixed WebDAV Cloud Sync failure issue
+- Fixed real-time Cloud Sync across devices via WebDAV issue
+- Fixed incorrect Cloud Sync timestamp display
+
 ## v1.7.0 (2025-02-17)
 
 ### General v1.7.0
