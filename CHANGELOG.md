@@ -1,5 +1,98 @@
 # Changelog
 
+## v1.8.0 (2025-04-04)
+
+### General v1.8.0
+
+- Optimized Nearby & Cloud Sync to improve stability and speed
+- Improved performance of internal processing of Clips
+
+### iOS v1.8.0
+
+- Fixed possible failure of "Nearby Sync"
+
+### Android v1.8.0
+
+- Added support for "Quick Action"
+- Added support for system sharing using "Quick Copy"
+- Added restart of "Nearby Sync" service after pairing devices
+- Fixed issue where "Background Monitoring" could affect the input method
+- Fixed issue where plain text and HTML could be inserted multiple times
+- Optimized package size
+- Optimized the stability of "Quick Copy"
+
+### Windows & macOS v1.8.0
+
+- Added support for floating "Quick Input" window
+- Added support for switching "Quick Input" to Collections
+- Fixed possible crash issue with "WebDAV"
+- Fixed possible disappearance issue of "Collections"
+
+## v1.7.4 (2025-03-24)
+
+- Fixed the issue where real-time Cloud Sync could not maintain a long-term connection
+
+## v1.7.3 (2025-03-17)
+
+### General v1.7.3
+
+- Fixed WebDAV real-time Cloud Sync failure issue
+- Fixed WebDAV Cloud Sync initialization failure issue
+- Fixed high CPU usage issue
+- Fixed high power consumption issue
+- Fixed frequent refresh of Clip history
+
+### Android v1.7.3
+
+- Added Nearby Sync availability detection
+- Improved stability of Clipboard background monitoring
+- Improved stability of screenshot monitoring
+- Improved log display and output
+
+### Windows & macOS v1.7.3
+
+- Improved Settings page display performance
+- Improved stability of Clipboard background monitoring
+
+## v1.7.2 (2025-03-10)
+
+### General v1.7.2
+
+- Added support for Dark Mode
+- Improved device online status display
+- Enhanced performance and stability of underlying dependencies
+- Improved user experience when deleting clips
+- Fixed WebDAV sync failure issue
+- Fixed real-time Cloud Sync via WebDAV issue
+- Fixed high CPU usage issue
+- Fixed high power consumption issue
+- Fixed sync failure issues caused by network switching
+- Fixed issue where local data cleanup
+
+### iOS v1.7.2
+
+- Added automatic service restart after network switching
+- Fixed system file sharing failure issue
+- Fixed crash issues during sync operations
+
+### Android v1.7.2
+
+- Added support for authorization via Root
+- Added auto service restart after network switching
+- Fixed issue where pull-to-refresh
+- Fixed Cloud Sync toggle not taking effect
+
+### Windows & macOS v1.7.2
+
+- Added adaptive single-column layout for homepage
+- Added support for delete keyboard shortcuts
+- Add support for silent startup
+- Fixed issue where macOS failed to read large images from clipboard
+- Fixed issue where macOS couldn't open and preview files
+- Fixed issue where Windows couldn't copy files to clipboard
+- Fixed issue where Windows couldn't open files
+- Fixed configuration issues for double/triple-click operations
+
 ## v1.7.1 (2025-02-26)
 
 ### General v1.7.1
