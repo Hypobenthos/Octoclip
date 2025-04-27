@@ -1,5 +1,40 @@
 # Changelog
 
+## v1.8.2 (2025-05-22)
+
+### General v1.8.2
+
+- Added Cloud Sync encryption
+- Added Collections Cloud Sync support
+- Added multi-language support
+- Enabled concurrent Nearby and Cloud syncing
+- Improved Clip history loading speed
+- Fixed excessive Cloud Sync triggering
+- Fixed crashes when opening email URLs
+- Fixed file transfer failures
+
+### iOS v1.8.2
+
+- Fixed some known issues
+  
+### Android v1.8.2
+
+- Added configurable auto-hide for Quick Action
+- Added source info display for Quick Action
+- Enhanced Quick Action stability and experience
+- Improved Clipboard Background Monitoring stability
+
+### Windows & macOS v1.8.2
+
+- Added Quick Input window position configuration
+- Removed redundant Quick Input auto-hide settings
+- Fixed Windows Tab key group switching
+- Fixed Windows Collections visibility issue
+- Fixed Windows Quick Input display problem
+- Fixed macOS Quick Input functionality
+- Fixed input issues after switching groups
+- Fixed cloud sync causing clipboard data loss
+
 ## v1.8.0 (2025-04-04)
 
 ### General v1.8.0
