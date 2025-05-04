@@ -1,5 +1,27 @@
 # Changelog
 
+## v1.8.3 (2025-04-30)
+
+### General v1.8.3
+
+- Fixed device binding failure issue
+  
+### iOS v1.8.3
+
+- Fixed some known issues
+
+### Android v1.8.3
+
+- Added support for "Accessibility" authorization
+- Added support for "Power Saving Optimization" configuration
+- Fixed frequent authorization requests for Cloud Sync
+
+### Windows & macOS v1.8.3
+
+- Fixed incorrect display issue in device list
+- Fixed Quick Input not displaying issue
+- Fixed Quick Input not inputting issue
+
 ## v1.8.2 (2025-05-22)
 
 ### General v1.8.2
