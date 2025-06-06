@@ -1,5 +1,39 @@
 # Changelog
 
+## v1.8.6 (2025-06-02)
+
+### iOS v1.8.6
+
+- Added support for displaying Quick Input Alias
+
+### Android v1.8.6
+
+- Added support for Quick Input
+- Added support for Quick Input Alias
+- Fixed a crash issue caused by cloud sync
+- Added Quick Action support for copying more content
+
+### Windows & macOS v1.8.6
+
+- Fixed an issue where Quick Input Alias could not be updated in real-time
+
+## v1.8.5 (2025-05-30)
+
+### General (v1.8.5)
+
+- Fixed an issue where cloud sync might fail to import data
+- Fixed a bug that could cause clip data loss during cloud sync
+- Improved cloud sync stability and speed
+
+### Windows & macOS (v1.8.5)
+
+- Added support for Quick Input Alias
+- Added support for sync notifications
+- Added support for custom window size in Quick Input
+- Fixed an issue where the Quick Input window couldn’t be moved
+- Fixed an issue where favorites might not show
+- Fixed an issue where cloud sync might require frequent re-authorization
+
 ## v1.8.3 (2025-04-30)
 
 ### General v1.8.3
