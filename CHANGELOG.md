@@ -1,5 +1,38 @@
 # Changelog
 
+## v1.8.7 (2025-06-20)
+
+### General v1.8.7
+
+- Added built-in Quick Input aliases
+- Added alias groups
+- Added alias trigger prefixes
+- Added Cloud Sync item limit
+- Improved manual update check for Collections & aliases
+- Fixed inability to re-add deleted aliases
+- Fixed auto-clearing of collected/named clips
+- Fixed query errors on certain extracts
+- Fixed Cloud Sync crash on re-login
+- Fixed Collection merge errors during Cloud Sync
+
+### Android v1.8.7
+
+- Added resizable Quick Action popup
+- Added alert when Quick Input stops
+- Added Cloud Sync progress in status bar
+- Added Shizuku log prompt
+- Improved app picker in Quick Actions
+- Fixed Quick Action extracts not copying to clipboard/history
+- Fixed repeated vibration from Instant Sync
+- Fixed Collection lag caused by Cloud Sync
+- Fixed crash when opening links without `http://`
+- Fixed floating-window glitches after reboot with pending Cloud Sync
+
+### Windows & macOS v1.8.7
+
+- Fixed pagination in clip list
+- Fixed Sync-Progress popup not closing automatically
+
 ## v1.8.6 (2025-06-02)
 
 ### iOS v1.8.6
