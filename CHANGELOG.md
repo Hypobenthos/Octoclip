@@ -1,5 +1,46 @@
 # Changelog
 
+## v1.8.9 (2025-07-09)
+
+### General v1.8.9
+
+- New: Pin clips to the top of the history
+- New: Built-in alias `pin<n>(n ≥ 1)`
+- Fixed: Incorrect ordering in automatic cleanup
+- Improved: Faster automatic cleanup
+
+### iOS v1.8.9
+
+- Fixed: Various known issues
+- Fixed: Crash on iOS 17 and below
+
+### Android v1.8.9
+
+- Fixed: Various known issues
+- Fixed: Nearby Sync could fail to restart automatically
+- Fixed: Potential crash during Shizuku authorization
+- Fixed: Links in Quick Actions wouldn’t open
+- Improved: Clearer status & messaging for background clipboard monitoring
+- Removed: Size limit for Quick Copy in Nearby Sync
+
+### Windows & macOS v1.8.9
+
+- New: Advanced clip-filtering rules
+- Fixed: Inaccurate application metadata
+- Fixed: Alias settings not matching display
+- Fixed: Cursor not focusing on input box when creating a new Collection
+
+## v1.8.8 (2025-06-25)
+
+### General v1.8.8
+
+- Fixed the behavior of built-in alias `first` and `last` not working as expected
+
+### Windows & macOS v1.8.8
+
+- Fixed issue where Quick Input alias could not be entered
+- Fixed issue where message notifications were not displayed
+
 ## v1.8.7 (2025-06-20)
 
 ### General v1.8.7
