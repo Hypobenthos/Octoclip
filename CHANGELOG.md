@@ -1,5 +1,34 @@
 # Changelog
 
+## v1.8.11 (2025-07-20)
+
+### General v1.8.11
+
+- Added: `-`, `,`, `.` can now be used as quick-alias prefixes
+- Added: Cloud Sync now supports the S3 protocol
+- Removed: OneDrive and Google Drive support from Cloud Sync
+- Improved: Cloud Sync stability and speed
+
+### iOS v1.8.11
+
+- Fixed: Various known issues
+
+### Android v1.8.11
+
+- Added: Option to set the Y-axis position of the Quick-Action bubble
+- Fixed: Task-list hide sometimes failed
+- Fixed: Crash when toggling the foreground-service switch
+- Fixed: Progress display glitches after leaving Cloud Sync
+- Fixed: Progress bar error after a full Cloud Sync completion
+- Fixed: Quick-Action bubble disappearing after repeated use
+- Improved: Notification refresh rate when Cloud Sync is very fast
+
+### Windows & macOS v1.8.11
+
+- Fixed: Asynchronous loading of clip thumbnails
+- Fixed: Localization ambiguity in advanced clip filters
+- Improved: Quick-Input window style and interaction
+
 ## v1.8.9 (2025-07-09)
 
 ### General v1.8.9
