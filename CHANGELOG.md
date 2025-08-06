@@ -1,5 +1,29 @@
 # Changelog
 
+## v1.8.12 (2025-08-03)
+
+### General v1.8.12
+
+- New: Added support for `;` as a quick-alias prefix
+- Improved: Stability of S3 endpoint configuration
+
+### iOS v1.8.12
+
+- Fixed: Various known issues
+
+### Android v1.8.12
+
+- New: Added support for automatic accessibility authorization
+- Fixed: Issues with S3 configuration not applying
+- Fixed: Log export file not found issue
+
+### Windows & macOS v1.8.12
+
+- New: Added support for `Temp Clip`
+- New: Hotkeys can now be reset to default
+- Fixed: Device deletion display issues
+- Fixed: Cloud Sync unable to log out issue
+
 ## v1.8.11 (2025-07-20)
 
 ### General v1.8.11
