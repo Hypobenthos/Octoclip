@@ -1,5 +1,42 @@
 # Changelog
 
+## v1.8.13 (2025-08-15)
+
+### General v1.8.13
+
+- Improved: Nearby Sync transfer speed
+- Improved: Instant Cloud Sync connection stability
+- Improved: Cloud Sync transfer speed
+- Fixed: Cloud Sync diff failure issue
+- Fixed: Cloud Sync favorites/aliases not syncing
+
+### iOS v1.8.13
+
+- Fixed: Known issues
+
+### Android v1.8.13
+
+- Fixed: Accessibility Service battery drain in background
+
+### Windows & macOS v1.8.13
+
+- New: Rounded corners support on Windows 10
+- New: Quick Input supports numbered display & input
+- New: Quick Input shows aliases
+- New: Auto-clear Quick Input search on hide
+- New: Advanced Clip filter supports “Keep locally”
+- New: Enable/disable individual rules in Advanced Clip filter
+- Improved: Clip History search performance
+- Improved: Cloud Sync refresh & frequency handling
+- Improved: Quick Input & Temp Clip input stability
+- Improved: Clipboard monitoring speed & stability
+- Improved: Auto-filter unnecessary BMP clipboard data
+- Improved: Auto-convert BMP to PNG when reading clipboard
+- Fixed: Clipboard content not retrievable
+- Fixed: Clipboard copy loop issue
+- Fixed: Clipboard duplicate data issue
+- Fixed: Quick Input failed after pinning
+
 ## v1.8.12 (2025-08-03)
 
 ### General v1.8.12
