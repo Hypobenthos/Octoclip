@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.8.14 (2025-08-19)
+
+- Fixed: Failed subscription to instant cloud sync messages
+- Improved: Reduced the frequency of Cloud Sync API calls
+
 ## v1.8.13 (2025-08-15)
 
 ### General v1.8.13
